@@ -1,0 +1,3 @@
+tanmoy,basak,Wipro,WDC1,M2								
+john,wright,Cogni,CDC2,M3
+rahul,bose,Infy,IDC3,M1
